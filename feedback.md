@@ -1,0 +1,1 @@
+It's a very tough task and I learned a lot from this homework. It gave me a more detailed and profound view to embedded systems and practise my programming skills. Hopefully the methodology will benifit our final project a lot.
